@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "name": "Smart Home Box",
+    "author_name": "Jennifer Closet",
+    "thumbnail": "https://i.ibb.co/JRYnLbSb/tumbnail-1.jpg",
+    "banner": "https://i.ibb.co/F4b3wK8p/smart-home-box-jpg.jpg",
+    "frequency": "Yearly",
+    "price": 4673,
+    "description": "Transform your home into a smart home with curated smart devices, home automation products, and IoT gadgets.",
+    "tech_category": "Smart Home",
+    "features": ["Smart Home Devices", "Home Automation Tools", "Cutting-edge IoT Gadgets"],
+    "subscription_benefits": [
+      "Discount on Future Smart Home Purchases",
+      "Exclusive Smart Home Tutorials",
+      "Early Access to Product Releases"
+    ],
+    "ratings": 4.8,
+    "number_of_reviews": 315
+  },
+  {
+    "id": 2,
+    "name": "AI Learning Kit",
+    "author_name": "John Alex",
+    "thumbnail": "https://i.ibb.co/Y7pM9NdP/thumbnail-2.jpg",
+    "banner": "https://i.ibb.co/8g6NpPQs/AI-learning-kit.jpg",
+    "frequency": "Monthly",
+    "price": 6745,
+    "description": "Master AI with monthly kits including hands-on projects, code samples, and video tutorials.",
+    "tech_category": "Artificial Intelligence",
+    "features": ["Hands-on AI Projects", "Pre-trained Models", "Python Code Samples"],
+    "subscription_benefits": [
+      "Access to AI Learning Community",
+      "Monthly Live Webinars",
+      "Downloadable Course Materials"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 280
+  },
+  {
+    "id": 3,
+    "name": "Cybersecurity Toolbox",
+    "author_name": "Maria Gold",
+    "thumbnail": "https://i.ibb.co/xtT2Pymm/thumbnail-3.jpg",
+    "banner": "https://i.ibb.co/nqVCfBgh/Cybersecurity-Toolbox.jpg",
+    "frequency": "Quarterly",
+    "price": 2100,
+    "description": "Stay secure online with quarterly boxes full of tools, guides, and devices for cybersecurity enthusiasts.",
+    "tech_category": "Cybersecurity",
+    "features": ["USB Firewalls", "Encryption Guides", "VPN Vouchers"],
+    "subscription_benefits": [
+      "Access to Premium Security Software",
+      "Cybersecurity News Digest",
+      "Expert Q&A Sessions"
+    ],
+    "ratings": 4.5,
+    "number_of_reviews": 172
+  },
+  {
+    "id": 4,
+    "name": "Drone Builder Box",
+    "author_name": "Mathias Ginter",
+    "thumbnail": "https://i.ibb.co/tpt4XCzJ/thumbnail-4.jpg",
+    "banner": "https://i.ibb.co/HLgSm7fV/Drone-Builder-Box.jpg",
+    "frequency": "Yearly",
+    "price": 2494,
+    "description": "Build and fly your own drones with expert guidance and top-quality components every year.",
+    "tech_category": "Drones",
+    "features": ["Drone Parts", "Flight Controllers", "Assembly Instructions"],
+    "subscription_benefits": [
+      "Free Drone Flying Lessons",
+      "Spare Parts Discounts",
+      "Access to Drone Racing Events"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 198
+  },
+  {
+    "id": 5,
+    "name": "AR/VR Developer Pack",
+    "author_name": "Alen Havertz",
+    "thumbnail": "https://i.ibb.co/Ng60B9hc/thumbnail-5.jpg",
+    "banner": "https://i.ibb.co/MD9QTVfp/ARVR-Developer-Pack.jpg",
+    "frequency": "Monthly",
+    "price": 5999,
+    "description": "Explore augmented and virtual reality development with tools, SDKs, and immersive tutorials.",
+    "tech_category": "AR/VR",
+    "features": ["VR Headset Support", "AR SDKs", "3D Model Libraries"],
+    "subscription_benefits": [
+      "Project Templates",
+      "Unity/Unreal Engine Tips",
+      "Access to VR Workshops"
+    ],
+    "ratings": 4.4,
+    "number_of_reviews": 153
+  },
+  {
+    "id": 6,
+    "name": "Green Tech Essentials",
+    "author_name": "Faiza Rahman",
+    "thumbnail": "https://i.ibb.co/mVSjgMWx/thumbnail-6.jpg",
+    "banner": "https://i.ibb.co/4ZBkQd52/Green-Tech-Essentials.jpg",
+    "frequency": "Monthly",
+    "price": 3900,
+    "description": "Make sustainable tech choices with monthly eco-gadgets and environmental innovation news.",
+    "tech_category": "Green Technology",
+    "features": ["Solar Chargers", "Eco Sensors", "Recyclable Devices"],
+    "subscription_benefits": [
+      "Carbon Offset Contributions",
+      "Early Access to Green Innovations",
+      "Sustainability Tips"
+    ],
+    "ratings": 4.3,
+    "number_of_reviews": 134
+  },
+  {
+    "id": 7,
+    "name": "IoT Innovators Box",
+    "author_name": "Ariyan Malik",
+    "thumbnail": "https://i.ibb.co/twBnV4bh/thumbnail-7.jpg",
+    "banner": "https://i.ibb.co/FL8T4f1v/Io-T-Innovators-Box.jpg",
+    "frequency": "Quarterly",
+    "price": 9500,
+    "description": "Join the future with smart sensors, development boards, and IoT project guides every quarter.",
+    "tech_category": "Internet of Things",
+    "features": ["Sensors", "Microcontrollers", "IoT Cloud Platforms"],
+    "subscription_benefits": [
+      "Free Azure/AWS Credits",
+      "Developer Support Forum Access",
+      "Priority Shipping"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 188
+  },
+  {
+    "id": 8,
+    "name": "Tech Gadgets Mystery Box",
+    "author_name": "Kelvin Philips",
+    "thumbnail": "https://i.ibb.co/LhkY2gSZ/thumbnail-8.jpg",
+    "banner": "https://i.ibb.co/0j3ZMnrd/Tech-Gadgets-Mystery-Box.jpg",
+    "frequency": "Monthly",
+    "price": 2900,
+    "description": "Receive a surprise selection of the latest and coolest tech gadgets each month.",
+    "tech_category": "Gadgets",
+    "features": ["Wearables", "Mini Speakers", "Phone Accessories"],
+    "subscription_benefits": [
+      "Exclusive Gadget Demos",
+      "Review Opportunities",
+      "Tech Swag Giveaways"
+    ],
+    "ratings": 4.2,
+    "number_of_reviews": 202
+  },
+  {
+    "id": 9,
+    "name": "Cloud Dev Toolkit",
+    "author_name": "Rowan Row",
+    "thumbnail": "https://i.ibb.co/LdnwYrwr/thumbnail-9.jpg",
+    "banner": "https://i.ibb.co/d4VTBPMG/Cloud-Dev-Toolkit.jpg",
+    "frequency": "Monthly",
+    "price": 3000,
+    "description": "Everything you need to master cloud development with tools, guides, and templates.",
+    "tech_category": "Cloud Computing",
+    "features": ["Docker Samples", "Terraform Modules", "Cloud CLI Tools"],
+    "subscription_benefits": [
+      "Credits for Cloud Platforms",
+      "Tutorials & Webinars",
+      "Template Marketplace Access"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 163
+  },
+  {
+    "id": 10,
+    "name": "Tech for Kids Box",
+    "author_name": "Aliza Winslet",
+    "thumbnail": "https://i.ibb.co/tpMnT9hf/thumbnail-10.jpg",
+    "banner": "https://i.ibb.co/dwdQvBnY/Tech-for-Kids-Box.webp",
+    "frequency": "Monthly",
+    "price": 3400,
+    "description": "Fun and educational tech activities for kids, including STEM kits and coding projects.",
+    "tech_category": "STEM Education",
+    "features": ["Build-Your-Own Robots", "Kid-Friendly Coding Challenges", "Educational Games"],
+    "subscription_benefits": [
+      "Printable Activity Books",
+      "Parental Guides",
+      "Coding for Kids Platform Access"
+    ],
+    "ratings": 4.9,
+    "number_of_reviews": 220
+  },
+  {
+    "id": 11,
+    "name": "Blockchain Starter Box",
+    "author_name": "Serena Hernendez",
+    "thumbnail": "https://i.ibb.co/fGQ5xNg9/thumbnail-11.jpg",
+    "banner": "https://i.ibb.co/h1wKC3x3/Blockchain-Starter-Box.jpg",
+    "frequency": "Quarterly",
+    "price": 7500,
+    "description": "Learn blockchain with curated resources, wallet kits, and smart contract tools.",
+    "tech_category": "Blockchain",
+    "features": ["Cold Wallet Device", "Smart Contract Templates", "Blockchain Learning Guide"],
+    "subscription_benefits": [
+      "Free Crypto Airdrop",
+      "Expert AMA Sessions",
+      "Discount on Blockchain Courses"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 142
+  },
+  {
+    "id": 12,
+    "name": "Robotics Pro Kit",
+    "author_name": "Mr. Rock",
+    "thumbnail": "https://i.ibb.co/5g3cKL9z/thumbnail-12.jpg",
+    "banner": "https://i.ibb.co/kVSBF3Z4/robotics-pro-kids.jpg",
+    "frequency": "Yearly",
+    "price": 5000,
+    "description": "Dive into robotics with complete build kits, microcontrollers, and sensors.",
+    "tech_category": "Robotics",
+    "features": ["Motor Kits", "Arduino Boards", "Sensor Packs"],
+    "subscription_benefits": [
+      "Robotics Community Access",
+      "Live Building Sessions",
+      "Certification Opportunities"
+    ],
+    "ratings": 4.8,
+    "number_of_reviews": 195
+  }
+]
