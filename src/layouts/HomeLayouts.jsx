@@ -19,7 +19,7 @@ const HomeLayouts = () => {
     
     return (
         <div >
-           <section className=' mx-auto'>
+           <section className='p-6 mx-auto'>
             
                 <Navbar></Navbar>   
                 <Header></Header>  
