@@ -20,13 +20,12 @@ const Navbar = () => {
     const links = <>
    <NavLink  className={({isActive})=> isActive ? "text-green-500 && underline " : ""} to='/'><li className='m-3  text-[16px] mr-6 font-semibold '> Home</li></NavLink>
     <NavLink  className={({isActive})=> isActive ? "text-green-500 && underline  " : ""} to="/profile"><li className='m-3 text-[16px]  mr-6 font-semibold'>Profile</li></NavLink>
-    
-    <NavLink  className={({isActive})=> isActive ? "text-green-500 && underline " : ""} to='/blogs'><li className='m-3 text-[16px]  font-semibold mr-6'> Blog</li></NavLink>
+    <NavLink  className={({isActive})=> isActive ? "text-green-500 && underline " : ""} to='/blogs'><li className='m-3 text-[16px]  font-semibold mr-6'> Blogs</li></NavLink>
     
     </>
     return (
         <div>
-          <div className="navbar shadow-sm lg:px-10 sticky top-0 z-50 bg-gray-100">
+          <div className="navbar shadow-sm lg:px-10  fixed top-0 z-50 bg-gray-100 ">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="p-1 hover:bg-gray-200 lg:hidden">

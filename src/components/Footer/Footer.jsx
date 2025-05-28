@@ -19,16 +19,16 @@ const Footer = () => {
             and discovering new premium products every month!
           </p>
           <div className="flex gap-3 mt-6">
-            <a href="#" className="bg-blue-600 hover:bg-blue-700 p-3 rounded-full transition">
+            <a href="https://www.facebook.com/" className="bg-blue-600 hover:bg-blue-700 p-3 rounded-full transition">
               <FaFacebookF />
             </a>
-            <a href="#" className="bg-gray-800 hover:bg-gray-900 p-3 rounded-full transition">
+            <a href="https://github.com/" className="bg-gray-800 hover:bg-gray-900 p-3 rounded-full transition">
               <FaGithub />
             </a>
-            <a href="#" className="bg-pink-600 hover:bg-pink-700 p-3 rounded-full transition">
+            <a href="https://www.instagram.com/" className="bg-pink-600 hover:bg-pink-700 p-3 rounded-full transition">
               <FaInstagram />
             </a>
-            <a href="#" className="bg-blue-700 hover:bg-blue-800 p-3 rounded-full transition">
+            <a href="https://www.linkedin.com/" className="bg-blue-700 hover:bg-blue-800 p-3 rounded-full transition">
               <FaLinkedinIn />
             </a>
           </div>
@@ -40,9 +40,9 @@ const Footer = () => {
           <ul className="space-y-2 text-gray-300 text-sm">
             <Link to="/"><li>› Home</li></Link>
             <Link to="/profile"><li> › Profile</li></Link>
-            <Link to="/blogs"><li>› Blog</li></Link>           
-            <Link to=""><li>› Privacy & Policy</li></Link>           
-            <Link><li>› Terms and Conditions</li></Link>
+            <Link to="/blogs"><li>› Blogs</li></Link>           
+            <Link to="/privacy&policy"><li>› Privacy & Policy</li></Link>           
+            <Link to="/terms&conditions"><li>› Terms and Conditions</li></Link>
             <Link to="/auth/login"><li>› Login</li></Link>
             <Link to="/auth/register"><li>› Sign Up</li></Link>
           </ul>
@@ -54,10 +54,10 @@ const Footer = () => {
           <ul className="space-y-4 text-gray-300 text-sm">
             <li className="flex items-start gap-3">
               <MdEmail className="text-xl text-blue-500 mt-1" />
-              <span>muhitjoy564@gmail.com</span>
+              <span>muhitjoy2004@gmail.com</span>
             </li>
-            <li className="flex items-start gap-3">
-              <MdPhone className="text-xl text-green-500 mt-1" />
+            <li className="flex items-start gap-3 ">
+              <MdPhone className="text-xl text-green-400 mt-1 " />
               <span>+880183916******</span>
             </li>
             <li className="flex items-start gap-3">

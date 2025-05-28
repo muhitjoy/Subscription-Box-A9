@@ -5,7 +5,7 @@ import { FaGift } from 'react-icons/fa';
 
 const Header = () => {
     return (
-        <div className="hero mx-auto mt-3 bg-gradient-to-r from-purple-800 to-blue-500  lg:h-[600px] p-6">
+        <div className="hero mx-auto mt-14 bg-gradient-to-r from-purple-800 to-blue-500 lg:h-[600px] p-6">
         <div className="hero-content flex-col lg:flex-row-reverse md:gap-28">
           {/* <img
             src="/public/subscription-box-1.jpg"

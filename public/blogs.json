@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "Glam Beauty Box Subscription",
+    "username": "Samia Chowdhury",
+    "date": "June 15, 2023",
+    "singleDescription":"Discover the best beauty subscription boxes in 2023 that deliver premium skincare, makeup, and self-care products right to your doorstep. We...",
+    "category": "Cosmetics",
+    "price": 19.99,
+    "description": "Monthly beauty and skincare essentials tailored to your skin type.",
+    "features": [
+      "Lipsticks & eyeliners",
+      "Face masks",
+      "Organic skincare samples"
+    ],
+    "image": "https://i.ibb.co/Kc4ZfGB2/image-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tech Gadget Box Subscription",
+    "username": "Elham Azmayeen ",
+    "date": "January 23, 2023",
+    "singleDescription":"Gadgets are small, useful, and usually electronic devices, while accessories are items that enhance the functionality or appearance of a gadget.We....",
+    "category": "Gadgets",
+    "price": 29.99,
+    "description": "Exciting new gadgets and accessories every month.",
+    "features": [
+      "Bluetooth earphones",
+      "Mini tools",
+      "Portable chargers"
+    ],
+    "image": "https://i.ibb.co/jkYzfLsJ/tech-gadget-box.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Health & Wellness Kit Subscription",
+    "username": "Rihan Khan",
+    "date": "June 18, 2023",
+    "singleDescription":"Health and wellness encompass taking care of both your physical and mental well-being. It's about making healthy choices, like ... ",
+    "category": "Medicine",
+    "price": 24.99,
+    "description": "Vitamins, supplements, and health care essentials monthly.",
+    "features": [
+      "Multivitamin packs",
+      "Herbal teas",
+      "First-aid items"
+    ],
+    "image": "https://i.ibb.co/zHxj2Fy5/health-wealth-box.webp"
+  },
+  {
+    "id": 4,
+    "name": "Study Buddy Box Subscription",
+    "username": "Farhan Ahmed",
+    "date": "April 8, 2023",
+    "singleDescription":"A Study Buddy Box can refer to a few different things, but generally, it's a curated collection of items designed to support learning and study. These boxes might include...",
+    "category": "Studies",
+    "price": 14.99,
+    "description": "Perfect box for students with essential stationery and productivity tools.",
+    "features": [
+      "Notebooks & pens",
+      "Sticky notes",
+      "Exam preparation guides"
+    ],
+    "image": "https://i.ibb.co/Z1hNqmL3/study-buddy-box.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Smart Home Kit Subscription",
+    "username": "Zobaida Khan",
+    "date": "March 3, 2023",
+    "singleDescription":"A Smart Home Kit is a collection of interconnected, smart devices designed to automate and control various aspects of a home, such as lighting, security...",
+    "category": "Smart Home",
+    "price": 34.99,
+    "description": "Upgrade your living space with smart home devices.",
+    "features": [
+      "Smart bulbs",
+      "Wi-Fi plugs",
+      "Voice assistant accessories"
+    ],
+    "image": "https://i.ibb.co/x8qMC2KN/smart-home-kt.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Snack Surprise Subscription",
+    "username": "Authoi Nilima",
+    "date": "July 5, 2023",
+    "singleDescription":"In English, snack is not a standard word related to surprise. Surprise in English refers to a feeling of surprise, or the unexpected event that causes that feeling....",
+    "category": "Food",
+    "price": 21.99,
+    "description": "Delicious snacks from different countries every month.",
+    "features": [
+      "Sweet & salty treats",
+      "Chocolates",
+      "Unique flavors"
+    ],
+    "image": "https://i.ibb.co/FkLynPSx/snacks-surprise-box.webp"
+  },
+  {
+    "id": 7,
+    "name": "Book Lovers Box Subscription",
+    "username": "Nilanjona Nila",
+    "date": "September 19, 2023",
+    "singleDescription":"subscription service or curated gift box designed for book enthusiasts, typically containing a new book and other book-related items to enhance...",
+    "category": "Books",
+    "price": 17.99,
+    "description": "Monthly delivery of hand-picked books and bookmarks.",
+    "features": [
+      "New releases",
+      "Classic novels",
+      "Exclusive bookmarks"
+    ],
+    "image": "https://i.ibb.co/n81FGBgL/book-lover-box.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Fitness Gear Box Subscription",
+    "username": "Tahia Ibnat Sania",
+    "date": "October 20, 2023",
+    "singleDescription":"A Fitness Gear Box in English typically refers to a plyometric box, a box-shaped piece of equipment used for plyometric exercises like...",
+    "category": "Fitness",
+    "price": 26.99,
+    "description": "Workout accessories and supplements for active lifestyles.",
+    "features": [
+      "Resistance bands",
+      "Protein samples",
+      "Fitness guides"
+    ],
+    "image": "https://i.ibb.co/Gfk3xpmN/fitness-gear-box.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Pet Joy Box Subscription",
+    "username": "Rehnuma Islam",
+    "date": "December 11, 2023",
+    "singleDescription":"PETJOY by M-PETS offers a range of stylish home and lifestyle products for pets and their owners, featuring bowls, mugs, bottles, bags, and more. These products are...",
+    "category": "Pets",
+    "price": 22.99,
+    "description": "Toys, treats, and accessories for your furry friends.",
+    "features": [
+      "Dog & cat toys",
+      "Healthy snacks",
+      "Seasonal accessories"
+    ],
+    "image": "https://i.ibb.co/LXCkwb9v/pet-joy-box.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Style Trend Box Subscription",
+    "username": "Safwan Firoz",
+    "date": "February 15, 2023",
+    "singleDescription":"A boxy style in fashion refers to a loose, wide cut in clothing, creating a silhouette that resembles a box. It's characterized by straight lines, often... ",
+    "category": "Fashion",
+    "price": 27.99,
+    "description": "Trendy fashion items and accessories every month.",
+    "features": [
+      "Scarves & jewelry",
+      "Fashionable sunglasses",
+      "Seasonal clothing items"
+    ],
+    "image": "https://i.ibb.co/d07LjX7t/Trendy-outfits.webp"
+  },
+  {
+    "id": 11,
+    "name": "Kiddo Fun Box Subscription",
+    "username": "Rafsan Ahmed Tahsin",
+    "date": "August 15, 2023",
+    "singleDescription":"The Nofred Kiddo Box is a wooden, medium-sized storage box designed to fit into their Kiddo shelving system, suitable for storing toys, books, or other ...",
+    "category": "Kids",
+    "price": 18.99,
+    "description": "Fun and educational toys for kids aged 4-10.",
+    "features": [
+      "Puzzle games",
+      "Storybooks",
+      "DIY craft kits"
+    ],
+    "image": "https://i.ibb.co/JRD2RC4z/kiddo-fun-box.webp"
+  },
+  {
+    "id": 12,
+    "name": "Creative Art Box Subscription",
+    "username": "Abdur Rahim",
+    "category": "Art",
+    "date": "November 15, 2023",
+    "singleDescription":"A Creative Art Box is a collection of art supplies and resources designed to spark creativity and learning. It typically includes various art media, tools...",
+    "price": 23.99,
+    "description": "Art supplies and inspiration for creative minds.",
+    "features": [
+      "Sketchbooks",
+      "Color pencils & paints",
+      "Step-by-step art tutorials"
+    ],
+    "image": "https://i.ibb.co/0y5pSSC7/creative-art-box.jpg"
+  }
+]

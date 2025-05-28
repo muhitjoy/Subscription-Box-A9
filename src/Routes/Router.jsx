@@ -10,12 +10,17 @@ import AuthLayout from "../layouts/AuthLayout";
 import Blogs from "../Pages/Blogs/Blogs";
 import PrivateRoute from "../Provider/PrivateRoute";
 import Loading from "../Pages/Loading/Loading";
+import PrivacyPolicy from "../Pages/Privacy&Policy/PrivacyPolicy";
+import TermsandConditions from "../Pages/Terms&Conditions/TermsandConditions";
+import ErrorPage from "../Pages/Errorpage/ErrorPage";
 
 const router = createBrowserRouter(
     [
         {
             path: "/",
             element: <HomeLayouts></HomeLayouts>,
+            loader: () => fetch("/data.json"),
+            hydrateFallbackElement: <Loading></Loading>
             
         },
         
@@ -55,11 +60,21 @@ const router = createBrowserRouter(
                 
         {
             path: "/blogs",
-            element: <Blogs></Blogs>
+            element: <Blogs></Blogs>,
+            loader: () => fetch("/blogs.json"),
+            hydrateFallbackElement: <Loading></Loading>
         }, 
         {
+            path:"/privacy&policy",
+            Component: PrivacyPolicy
+        },
+        {
+            path:"/terms&conditions",
+            Component: TermsandConditions
+        },
+        {
             path: "/*",
-            element: <h1>errorpage 404</h1>
+            element: <ErrorPage></ErrorPage>
         }
     ]);
 

@@ -15,7 +15,7 @@ const Profile = () => {
   }
 
   return (
-    <div>
+    <div className='mt-20'>
       <header>
         <Navbar />
       </header>
