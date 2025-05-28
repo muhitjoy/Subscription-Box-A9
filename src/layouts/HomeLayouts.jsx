@@ -21,7 +21,8 @@ const HomeLayouts = () => {
         <div >
            <section className='mx-auto'>
                 <Navbar></Navbar>   
-                <Header></Header>  
+                <Header></Header>
+                {import.meta.env.VITE_name}  
                 <SubscriptionBoxes></SubscriptionBoxes>     
                 <ChooseBox></ChooseBox>
                 <SubscribersReview></SubscribersReview>
